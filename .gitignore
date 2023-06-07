@@ -1,3 +1,8 @@
+# My
+tieto_zadanie_rekrutacyjne.pdf
+notatki.txt
+cut
+
 # Prerequisites
 *.d
 
@@ -50,3 +55,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
